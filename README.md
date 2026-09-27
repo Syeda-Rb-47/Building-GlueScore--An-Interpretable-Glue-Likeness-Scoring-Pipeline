@@ -55,9 +55,5 @@ models trained on the same data.
 | Random Forest AUC | 0.971 |
 | Glues captured in top 25% of ranking | 49.5% |
 | Glues captured in top 75% of ranking | 99.1% |
-| IMiD-only AUC | 0.870 |
-| Non-IMiD-only AUC | 0.855 |
 
-The close match between training and test AUC indicates no meaningful overfitting, and the
-comparable IMiD / non-IMiD performance indicates the score is not driven solely by the dominant
-glutarimide chemotype.
+The close match between training and test AUC indicates no meaningful overfitting.
